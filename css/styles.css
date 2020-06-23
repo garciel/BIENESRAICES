@@ -112,6 +112,7 @@ h4{
 }
 .contenido-anuncio{
     padding: 2rem;
+    background-color: #71B100;
 }
 .contenido-anuncio h3, .contenido-anuncio p{
     margin: 0;
