@@ -117,3 +117,6 @@ h4{
 .contenido-anuncio h3, .contenido-anuncio p{
     margin: 0;
 }
+.deletethis{
+    background-color: aqua;
+}
